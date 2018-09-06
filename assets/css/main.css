@@ -7,7 +7,7 @@
 	left: 0;
 	height: 100%;
 	width: 100%;
-	background: #151b27;
+	background: linear-gradient(to bottom, #141E30 0%, #243B55 100%);
 	z-index: 999999;
 	opacity: 1;
 	text-align:center;

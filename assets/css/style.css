@@ -959,11 +959,11 @@ header .ownmenu .look-book .media-body a {
 	background-size: cover;
 }
 .home-6-style #sec-2 {
-	background: url(../images/bg/bg2.jpg) fixed no-repeat;
+	background: url(../images/bg/bg10.jpg) fixed no-repeat;
 	background-size: cover;
 }
 .home-6-style #sec-3 {
-	background: url(../images/bg/bg3.jpg) fixed no-repeat;
+	background: url(../images/bg/bg10.jpg) fixed no-repeat;
 	background-size: cover;
 }
 .home-6-style #sec-4 {
@@ -971,7 +971,7 @@ header .ownmenu .look-book .media-body a {
 	background-size: cover;
 }
 .home-6-style #sec-6 {
-	background: url(../images/bg/bg2.jpg) fixed no-repeat;
+	background: url(../images/bg/bg10.jpg) fixed no-repeat;
 	background-size: cover;
 }
 .home-6-style .content .huge-txt {
@@ -4206,19 +4206,11 @@ footer .flicker img {
       Renovation
 ========================================================*/
 .renovation {
-	background: #192026;
+	background: linear-gradient(to bottom, #141E30 0%, #243B55 100%);
 	text-align: center;
 	padding-bottom: 0px;
 }
-.renovation:before {
-	background: #192026;
-	content: "";
-	position: absolute;
-	left: 0px;
-	top: 0px;
-	width: 100%;
-	height: 100px;
-}
+
 .renovation h2 {
 	font-size: 40px;
 	color: #272727;
